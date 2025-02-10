@@ -30,9 +30,7 @@ This dashboard provides valuable insights into **sales performance, product tren
 ## 🚀 **How to Use**  
 1. **Download the Excel file** 📥  
 2. Open it in **Microsoft Excel (2016 or later)**  
-3. Use the **filters & slicers** to explore insights dynamically  
-
-Here’s a refined **Learning & Inspiration** section for your GitHub repository:    
+3. Use the **filters & slicers** to explore insights dynamically.  
 
 ---
 
@@ -41,8 +39,6 @@ Here’s a refined **Learning & Inspiration** section for your GitHub repository
 I’d love to hear your feedback! Feel free to open an issue or suggest improvements. 😊  
 
 ---
-
-
 
 ## 📷 **Dashboard Deigns images**  
 
